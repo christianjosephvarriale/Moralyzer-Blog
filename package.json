@@ -1,0 +1,16 @@
+{
+  "name": "list-of-ingredients",
+  "license": "MIT",
+  "engines": {
+    "node": "12.14.0",
+    "yarn": "1.21.1"
+  },
+  "scripts": {
+    "build": "yarn --cwd client install && yarn --cwd client build",
+    "deploy": "cp -a client/build/. public/",
+    "heroku-postbuild": "yarn build && yarn deploy"
+  },
+  "dependencies": {
+    "@material-ui/icons": "^4.11.2"
+  }
+}
