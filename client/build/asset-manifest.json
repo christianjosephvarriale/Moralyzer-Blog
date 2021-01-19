@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d0b43bb.chunk.css",
+    "main.js": "/static/js/main.05004749.chunk.js",
+    "main.js.map": "/static/js/main.05004749.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.469930a7.js",
+    "runtime~main.js.map": "/static/js/runtime~main.469930a7.js.map",
+    "static/css/2.8f0d8aca.chunk.css": "/static/css/2.8f0d8aca.chunk.css",
+    "static/js/2.86e04d9d.chunk.js": "/static/js/2.86e04d9d.chunk.js",
+    "static/js/2.86e04d9d.chunk.js.map": "/static/js/2.86e04d9d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ca4e7dc1de2f476296eae53ea2da3e37.js": "/precache-manifest.ca4e7dc1de2f476296eae53ea2da3e37.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.8f0d8aca.chunk.css.map": "/static/css/2.8f0d8aca.chunk.css.map",
+    "static/css/main.1d0b43bb.chunk.css.map": "/static/css/main.1d0b43bb.chunk.css.map",
+    "static/media/404.png": "/static/media/404.2af9e988.png",
+    "static/media/cbc.png": "/static/media/cbc.c4bc9fa8.png",
+    "static/media/ctvNews.png": "/static/media/ctvNews.bebb2687.png",
+    "static/media/blog.module.css": "/static/media/fa-solid-900.c691fb6d.ttf",
+    "static/media/fb.3ae13bc8.svg": "/static/media/fb.3ae13bc8.svg",
+    "static/media/globe.png": "/static/media/globe.4ee6a08f.png",
+    "static/media/huff.png": "/static/media/huff.385c4354.png",
+    "static/media/main.css": "/static/media/icon-search.19014f13.svg",
+    "static/media/instagram.b1c58ee1.svg": "/static/media/instagram.b1c58ee1.svg",
+    "static/media/logo.png": "/static/media/logo.717a9f4b.png",
+    "static/media/metro.png": "/static/media/metro.a60ac307.png",
+    "static/media/montreal.png": "/static/media/montreal.6537c2ee.png",
+    "static/media/style.css": "/static/media/personCoding.61350f1a.png",
+    "static/media/styles.css": "/static/media/revicons.2feb69cc.eot",
+    "static/media/virus.png": "/static/media/virus.1bb04703.png"
+  }
+}
