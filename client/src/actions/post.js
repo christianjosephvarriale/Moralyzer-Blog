@@ -8,7 +8,7 @@ const contentful = require('contentful');
 
 const client = contentful.createClient({
     space: 'mssz45ml30nj',
-    accessToken: '4KhL-PyIZmWqrvAkoFc2BN0ZYzCXs5k-kgIqAT8aPi8'
+    accessToken: process.env.REACT_APP_CONTENTFUL_API_KEY
 });
 
 /**
