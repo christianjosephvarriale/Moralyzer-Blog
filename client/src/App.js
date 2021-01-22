@@ -10,6 +10,25 @@ import { connect } from 'react-redux';
 import Page404 from './pages/NotFound.js';
 import './css/main.css';
 import { Helmet } from 'react-helmet';
+import InApp from 'detect-inapp';
+import {
+  enable as enableDarkMode,
+  disable as disableDarkMode,
+  auto as followSystemColorScheme,
+  setFetchMethod,
+  exportGeneratedCSS as collectCSS,
+} from 'darkreader';
+
+
+const inapp = new InApp(navigator.userAgent || navigator.vendor || window.opera);
+
+if ( !inapp.isInApp ){ // dont show dark mode 
+  enableDarkMode({
+    brightness: 100,
+    contrast: 90,
+    sepia: 10,
+  });
+}
 
 class App extends Component {
   constructor(props) {
